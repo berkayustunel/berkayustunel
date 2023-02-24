@@ -1,6 +1,5 @@
 # Hoşgeldiniz 👋
 
-- 🌱 Şu anda Angular öğreniyorum.
 - 📫 Bana ulaşmak için: E-Posta adresim: berkay.ustunel@hotmail.com
 - ⚡ Hobilerim: Müzik dinlemek ve oyun oynamak
 
